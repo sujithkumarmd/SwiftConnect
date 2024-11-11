@@ -2,7 +2,7 @@
 
 ## Overview
 
-**RealTime Talker** is a web application that enables users to engage in real-time conversations. Built using Python Flask and Socket.IO, the platform ensures an average message delivery time of under 100 milliseconds. Users can easily create and join chat rooms, making communication seamless and instant.
+**SwiftConnect** is a web application that enables users to engage in real-time conversations. Built using Python Flask and Socket.IO, the platform ensures an average message delivery time of under 100 milliseconds. Users can easily create and join chat rooms, making communication seamless and instant.
 
 ## Features
 
